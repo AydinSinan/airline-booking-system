@@ -49,7 +49,7 @@
     </dependencies>
 
     <modules>
-        <module>user-service</module>
+      <!--  <module>user-service</module> -->
     </modules>
 
 
