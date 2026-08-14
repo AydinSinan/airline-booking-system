@@ -20,6 +20,6 @@ public class AirportResponse {
     private String detailedName;
     private ZoneId zoneId;
     private Address address;
-    private CityResponse cityResponse;
+    private CityResponse city;
     private GeoCode geoCode;
 }
